@@ -441,11 +441,11 @@ groups:
   
 * In the top right corner, click on the drop down and select create alert.
   
-<img width="1791" alt="Screenshot 2023-08-04 at 04 45 00" src="https://github.com/dooshima-gbamwuan-deimos/module-2/assets/138670122/afc0c1f3-6b96-40cf-af67-a26f3bed53bc">
+  <img width="1791" alt="Screenshot 2023-08-04 at 04 49 19" src="https://github.com/dooshima-gbamwuan-deimos/module2/assets/138670122/90a646d8-4bf5-4412-af0b-1f57178ef5aa">
 
 * Navigate to the bottom and create your alert.
-
-<img width="1791" alt="Screenshot 2023-08-04 at 04 49 19" src="https://github.com/dooshima-gbamwuan-deimos/module-2/assets/138670122/87675201-8981-4464-8ad3-cb33dbf8dc17">
+  
+<img width="1404" alt="Screenshot 2023-08-14 at 4 33 32 PM" src="https://github.com/dooshima-gbamwuan-deimos/module2/assets/138670122/d90e2e64-b100-436b-a01a-1a493b2ba311">
 
 * When your alert conditions are met, the selected alert channel will be alerted.
 
