@@ -163,9 +163,6 @@ Once logged in, create a you should the database at the extreme left, click on i
 
 <img width="1481" alt="test" src="https://github.com/dooshima-gbamwuan-deimos/module2/assets/138670122/e60884c3-38f9-4b9e-b21d-6b90025373f4">
 
-<img width="843" alt="php-code" src="https://github.com/dooshima-gbamwuan-deimos/module-2/assets/138670122/51e4ee9e-8865-4f36-8c9a-aa0fc5b730b7">
-
-
 Here I used test in my php code (form_submit.php), so my table name will be test.
 The test table has 3 columns so we will specific 3 columns as shown in the image below:
 
