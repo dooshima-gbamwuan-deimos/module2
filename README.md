@@ -457,4 +457,3 @@ groups:
 <img width="1791" alt="Screenshot 2023-08-10 at 12 33 14 PM" src="https://github.com/dooshima-gbamwuan-deimos/module-2/assets/138670122/d172ca7d-e70e-45ad-8185-a400042003de">
 
 _It is important to note that, alert can be created for time series charts_
-
