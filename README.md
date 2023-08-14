@@ -147,7 +147,6 @@ is specified while other images such as the MySQL and the phpmyadmin are pull fr
 The command should be executed in the terminal.
 The terminal should have this output if your build was successful.
 
-<img width="1252" alt="terminal_output" src="https://github.com/dooshima-gbamwuan-deimos/module-2/assets/138670122/1982fc36-0fc6-4125-8d4a-9f52bfb53897">
 
 
 #### Accessing the application:
@@ -158,8 +157,7 @@ Navigate to your browser and type http://localhost:<port>
 Navigate to the port of the phpmyadmin by either typing http://localhost/port to access the phpmyadmin interface (which the web app that manages MySQL and MariaDB) or click the port from your Docker Desktop, which ever way works just fine.
 Login with the user name specified in the .env and the password assigned to the user and login.
 
-<img width="1481" alt="php-admin-login" src="https://github.com/dooshima-gbamwuan-deimos/module-2/assets/138670122/b355de09-c122-4a57-8bb6-f8707bdadfee">
-
+<img width="1481" alt="php-admin-login" src="https://github.com/dooshima-gbamwuan-deimos/module2/assets/138670122/386e49b0-7e5e-4ae7-962c-df49e075f824">
 
 Once logged in, create a you should the database at the extreme left, click on it and create the name of the table specified in your form_submit.php, on line 25 of your code. See the image below
 
@@ -169,13 +167,12 @@ Once logged in, create a you should the database at the extreme left, click on i
 Here I used test in my php code (form_submit.php), so my table name will be test.
 The test table has 3 columns so we will specific 3 columns as shown in the image below:
 
-<img width="1481" alt="test" src="https://github.com/dooshima-gbamwuan-deimos/module-2/assets/138670122/17213f95-cf33-46a5-bd21-997f226b4a8e">
-
 
 The column names for the database are specified in the line 25 of the php code (i.e Name, Email, Message). 
 Add the column names alongside their data types as shown in the image below:
 
-<img width="1481" alt="columns" src="https://github.com/dooshima-gbamwuan-deimos/module-2/assets/138670122/a6b80333-742f-4fd2-bd76-80e78c9002d9">
+<img width="1481" alt="columns" src="https://github.com/dooshima-gbamwuan-deimos/module2/assets/138670122/d09e3c55-afdb-4e1e-922b-37e010dccea4">
+
 
 The next thing is to access the web application have it submit data to the MySQL database.
 In youur browser, navigate to the port the app is running on, and you should see this page
