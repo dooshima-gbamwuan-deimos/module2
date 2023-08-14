@@ -175,13 +175,11 @@ Add the column names alongside their data types as shown in the image below:
 
 The next thing is to access the web application have it submit data to the MySQL database.
 In youur browser, navigate to the port the app is running on, and you should see this page
-
-<img width="1486" alt="app" src="https://github.com/dooshima-gbamwuan-deimos/module-2/assets/138670122/0d079c52-e894-40d0-a3c6-fed2c7522f86">
+<img width="1761" alt="Screenshot 2023-08-01 at 05 36 03" src="https://github.com/dooshima-gbamwuan-deimos/module2/assets/138670122/11aff40a-d723-414a-8658-37c34eb077a4">
 
 Fill the form and click submit and you should receive this feedback
 
-<img width="1485" alt="feedback" src="https://github.com/dooshima-gbamwuan-deimos/module-2/assets/138670122/3e6426c1-43aa-4672-b915-4cd82650cf61">
-
+<img width="1761" alt="Screenshot 2023-08-01 at 05 37 34" src="https://github.com/dooshima-gbamwuan-deimos/module2/assets/138670122/6b594495-567f-4778-b517-3a0111c3f12f">
 
 Now we will explore the next option (using bash scripts or terminal)
 
