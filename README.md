@@ -161,6 +161,8 @@ Login with the user name specified in the .env and the password assigned to the 
 
 Once logged in, create a you should the database at the extreme left, click on it and create the name of the table specified in your form_submit.php, on line 25 of your code. See the image below
 
+<img width="1481" alt="test" src="https://github.com/dooshima-gbamwuan-deimos/module2/assets/138670122/e60884c3-38f9-4b9e-b21d-6b90025373f4">
+
 <img width="843" alt="php-code" src="https://github.com/dooshima-gbamwuan-deimos/module-2/assets/138670122/51e4ee9e-8865-4f36-8c9a-aa0fc5b730b7">
 
 
