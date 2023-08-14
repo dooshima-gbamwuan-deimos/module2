@@ -448,7 +448,8 @@ groups:
 <img width="1791" alt="Screenshot 2023-08-04 at 04 49 19" src="https://github.com/dooshima-gbamwuan-deimos/module-2/assets/138670122/87675201-8981-4464-8ad3-cb33dbf8dc17">
 
 * When your alert conditions are met, the selected alert channel will be alerted.
-  
-<img width="1791" alt="Screenshot 2023-08-10 at 12 33 14 PM" src="https://github.com/dooshima-gbamwuan-deimos/module-2/assets/138670122/d172ca7d-e70e-45ad-8185-a400042003de">
 
+<img width="996" alt="Screenshot 2023-08-14 at 4 41 04 PM" src="https://github.com/dooshima-gbamwuan-deimos/module2/assets/138670122/d63f5b04-b369-4c40-a16b-ceb072e30da6">
+ 
+  
 _It is important to note that, alert can be created for time series charts_
